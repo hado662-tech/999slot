@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+            http://www.google.com/schemas/sitemap-image/1.1
+            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+    
+    <!-- Trang chủ - Highest Priority -->
+    <url>
+        <loc>https://999slot.us.com/</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://999slot.us.com/images/logo.png</image:loc>
+            <image:title>999Slot Logo - Nhà Cái Uy Tín</image:title>
+            <image:caption>999Slot - Đăng Ký 999Slot - Đăng Nhập 999Slot</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Đăng ký - High Priority for conversion -->
+    <url>
+        <loc>https://999slot.us.com/dang-ky.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+    </url>
+    
+    <!-- Đăng nhập - High Priority for returning users -->
+    <url>
+        <loc>https://999slot.us.com/dang-nhap.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+    </url>
+    
+    <!-- Khuyến mãi - Updated frequently -->
+    <url>
+        <loc>https://999slot.us.com/khuyen-mai.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.90</priority>
+    </url>
+    
+    <!-- Giới thiệu - About page -->
+    <url>
+        <loc>https://999slot.us.com/gioi-thieu.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Chính sách bảo mật -->
+    <url>
+        <loc>https://999slot.us.com/chinh-sach-bao-mat.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    
+    <!-- Điều khoản sử dụng -->
+    <url>
+        <loc>https://999slot.us.com/dieu-khoan-su-dung.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    
+    <!-- Chơi có trách nhiệm -->
+    <url>
+        <loc>https://999slot.us.com/choi-co-trach-nhiem.html</loc>
+        <lastmod>2026-02-01T12:00:00+07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+    
+</urlset>

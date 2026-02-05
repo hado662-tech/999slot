@@ -1,0 +1,118 @@
+# ============================================
+# 999Slot Robots.txt
+# Website: https://999slot.us.com
+# Last Updated: 2026-02-01
+# ============================================
+
+# ============================================
+# SITEMAPS
+# ============================================
+Sitemap: https://999slot.us.com/sitemap.xml
+
+# ============================================
+# SEARCH ENGINE BOTS (Google, Bing, etc.)
+# ============================================
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /*.json$
+Disallow: /*?*
+
+# Crawl optimization
+Crawl-delay: 1
+
+# ============================================
+# GOOGLE BOT - Full Access
+# ============================================
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# ============================================
+# BING BOT
+# ============================================
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# ============================================
+# OTHER MAJOR SEARCH ENGINES
+# ============================================
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+
+# ============================================
+# SOCIAL MEDIA BOTS
+# ============================================
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterest
+Allow: /
+
+# ============================================
+# AI CRAWLERS (2026 Best Practices)
+# ============================================
+# Allow AI to understand content for search
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Cohere-ai
+Allow: /
+
+# ============================================
+# BLOCK MALICIOUS BOTS
+# ============================================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# ============================================
+# HOST DIRECTIVE
+# ============================================
+Host: https://999slot.us.com
